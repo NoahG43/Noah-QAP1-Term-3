@@ -1,0 +1,6 @@
+1. took me roughly 1 hour to finish task 1 and 30 minutes for task 2
+2. lectures, videos posted, course notes
+3. I asked mike, scott, cody, peter, brady
+4. I asked peter 1 question about the minimum requirements needed for a pass
+5. task 1 was simple using course notes for reference, task 2 was easy using posted 
+videos for making a random number generator. I feel like I could solve another problem similar to this if I had to.
